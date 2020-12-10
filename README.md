@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **jessicasalbert/jessicasalbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Jessica's github stats](https://github-readme-stats.vercel.app/api?username=jessicasalbert)](https://github.com/jessicasalbert/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasalbert&hide=css,html)](https://github.com/jessicasalbert/github-readme-stats)
